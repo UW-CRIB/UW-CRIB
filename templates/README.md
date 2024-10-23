@@ -5,7 +5,9 @@ Give a short description of the project, what it does, and it's purpose.
 
 ## Keywords
 
-* energy efficiency
+* Energy Efficiency
+* Climate Resiliant Buildings
+
 
 ## Functions/Classes
 
@@ -18,10 +20,8 @@ Give a short description of the project, what it does, and it's purpose.
 List all the modules, libraries, languages, etc. that need to be installed
 to run your code.
 
+### Datasets (optional)
 
-### Datasets 
-
-(optional)
 Links to datasets required to run the program. This is optional. I know
 there are some datasets that are very limited in their use that can't be
 shared. You are welcome to create a sample dataset if you want to.
@@ -37,4 +37,4 @@ to install and run the program. Include the software/code versions used.
 
 Everyone who worked on the code and how they contributed.
 
-- [Claire Mather](https://www.uwaterloo.ca/)
+* [Claire Mather](https://github.com/claire-mather)
