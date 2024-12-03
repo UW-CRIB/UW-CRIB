@@ -13,6 +13,7 @@ PEP 8 standard.
 * [Imports](#imports)
 * [White Spaces in Expressions](#white_spaces)
 * [Comments](#comments)
+* [Naming Conventions](#naming-conventions)
 
 
 <h2 id="indentations">Indentations</h2>
@@ -129,5 +130,22 @@ Avoid adding unnecisary whitespaces in expressions.
 
 <h2 id="comments">Comments</h2>
 
-* comments at the top of each file
-* comments in the code that describe classes/objects immediately before them
+<h3 id="block-comments">Block Comments</h3>
+
+Every file should start with a block comment that explains the purpose of the
+file and the classes or functions it contains.
+
+<h3 id="inline-comments">Inline Comments</h3>
+
+Inline comments should only be used to explain the purpose of code. They should
+not describe what the code does in english. Well written code should speak for
+itself.
+
+
+<h2 id="naming-conventions">Naming Conventions</h2>
+
+There is no strict naming convention for the names of classes and variable.
+The only guidelines are to give every variable a clear descriptive name
+that indicates it function and use a consistent naming style. Ie. If you
+use camel case (ex. CamelCase) for variables use it for every variable,
+if you use pothole case (ex. pothole_case) only use pothole case. 

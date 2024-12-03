@@ -1,7 +1,7 @@
 # UW-CRIB
 
 This repository holds the code for research done by members of the University of Waterloo's
-Climate Resiliance and Intelligent Buildings research team.
+Climate Resiliance and Intelligent Buildings (CRIB) research team.
 
 
 ## Table of Contents
@@ -14,7 +14,9 @@ Climate Resiliance and Intelligent Buildings research team.
 
 ### System Scale
 
+### Utilities
+
 
 ## Contributors
 
-* [Claire Mather](https://github.com/claire-mather) - GitHub structure, README template, code standard
+* [Claire Mather](https://github.com/claire-mather) - repository structure, README template, code standard
